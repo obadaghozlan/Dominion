@@ -1,0 +1,54 @@
+.dialog-pane {
+    -fx-border-color: black;
+    -fx-border-width: 0.5px;
+    -fx-font-family: "Apple Chancery";
+    -fx-background-image: url("/src/main/resources/backgrounds/raphael-lacoste-ifx-final-rlacoste-10years.png");
+    -fx-background-size: cover;
+}
+
+
+/**Costumization of The Bar where the buttons are located**/
+
+
+/*Message Panel */
+
+.dialog-pane>.content.label {
+    -fx-padding: 0.5em 0.5em 0.5em 0.5em;
+    -fx-text-fill: white;
+    -fx-font-size: 20px;
+    -fx-font-weight: bold;
+    -fx-effect: dropshadow(three-pass-box, black, 10, 0, 0, 0);
+}
+
+
+/**Costumization of DialogPane Header**/
+
+.dialog-pane:header .header-panel {
+    -fx-background-image: url("/src/main/resources/backgrounds/raphael-lacoste-ifx-final-rlacoste-10years.png");
+    -fx-background-size: cover;
+}
+
+.dialog-pane:header .header-panel .label {
+    -fx-background-radius: 10px;
+    -fx-text-fill: #ffbf00;
+    -fx-font-size: 25px;
+    -fx-font-weight: bold;
+    -fx-effect: dropshadow(three-pass-box, black, 10, 0, 0, 0);
+}
+
+
+/**Costumization of Buttons**/
+
+.dialog-pane .button {
+    -fx-background-color: #ffbf00;
+    -fx-text-fill: black;
+    -fx-wrap-text: true;
+    -fx-effect: dropshadow(three-pass-box, white, 10, 0, 0, 0);
+    -fx-cursor: hand;
+}
+
+.dialog-pane .button:hover {
+    -fx-background-color: #dad7ce;
+    -fx-text-fill: black;
+    -fx-font-weight: bold;
+}

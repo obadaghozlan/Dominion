@@ -1,0 +1,22 @@
+image: maven:3.6.0-jdk-12
+
+build-job:
+
+    cache:
+      paths:
+        - .m2/
+    variables:
+      MAVEN_OPTS: "-Dmaven.repo.local=.m2"
+    tags:
+      - docker 
+    when: on_success
+    only:
+      - develop
+      - master    
+    script:
+    - mvn clean compile package
+    - mvn org.sonarsource.scanner.maven:sonar-maven-plugin:3.2:sonar -D sonar.host.url=http://sstlab.informatik.tu-cottbus.de:9000 -D sonar.projectName=SWP-WS1920-Dominion -D sonar.projectKey=SWP-WS1920-Dominion
+    artifacts:
+        expire_in: 1 week
+        paths:
+        - target/*shaded.jar

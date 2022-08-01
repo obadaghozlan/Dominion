@@ -1,0 +1,7 @@
+/.vscode/
+/target/
+/.settings/
+.classpath
+.project
+/bin/
+Settings.xml

@@ -1,0 +1,23 @@
+<factorypath>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/openjfx/javafx-controls/14-ea+2/javafx-controls-14-ea+2.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/openjfx/javafx-controls/14-ea+2/javafx-controls-14-ea+2-win.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/openjfx/javafx-graphics/14-ea+2/javafx-graphics-14-ea+2.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/openjfx/javafx-graphics/14-ea+2/javafx-graphics-14-ea+2-win.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/openjfx/javafx-base/14-ea+2/javafx-base-14-ea+2.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/openjfx/javafx-base/14-ea+2/javafx-base-14-ea+2-win.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/openjfx/javafx-web/14-ea+2/javafx-web-14-ea+2.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/openjfx/javafx-web/14-ea+2/javafx-web-14-ea+2-win.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/openjfx/javafx-media/14-ea+2/javafx-media-14-ea+2.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/openjfx/javafx-media/14-ea+2/javafx-media-14-ea+2-win.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/openjfx/javafx-swing/14-ea+2/javafx-swing-14-ea+2.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/openjfx/javafx-swing/14-ea+2/javafx-swing-14-ea+2-win.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/com/esotericsoftware/kryonet/2.22.0-RC1/kryonet-2.22.0-RC1.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/com/esotericsoftware/jsonbeans/0.7/jsonbeans-0.7.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/com/esotericsoftware/kryo/kryo/2.24.0/kryo-2.24.0.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/com/esotericsoftware/minlog/minlog/1.2/minlog-1.2.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/objenesis/objenesis/2.1/objenesis-2.1.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/com/jfoenix/jfoenix/9.0.1/jfoenix-9.0.1.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/openjfx/javafx-fxml/11/javafx-fxml-11.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/openjfx/javafx-fxml/11/javafx-fxml-11-win.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/netbeans/api/org-openide-util-lookup/RELEASE112/org-openide-util-lookup-RELEASE112.jar" enabled="true" runInBatchMode="false"/>
+</factorypath>
