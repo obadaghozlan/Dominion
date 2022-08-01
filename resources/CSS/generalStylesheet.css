@@ -1,0 +1,129 @@
+.label {
+    -fx-font-family: "Apple Chancery";
+    -fx-font-weight: bold;
+}
+
+
+/* white btn with gree Hover*/
+
+.animatedBtn {
+    -fx-background-radius: 30;
+    -fx-background-color: #dad7ce;
+    -fx-font-family: "Apple Chancery";
+    -fx-font-size: 24;
+}
+
+.animatedBtn:hover {
+    -fx-background-color: #95c11f;
+    -fx-font-size: 24;
+}
+
+.SmallanimatedBtn {
+    -fx-background-radius: 30;
+    -fx-background-color: #dad7ce;
+    -fx-font-family: "Apple Chancery";
+    -fx-font-size: 20;
+}
+
+.SmallanimatedBtn:hover {
+    -fx-background-color: #95c11f;
+    -fx-font-size: 20;
+}
+
+
+/* white btn with red Hover*/
+
+.exitBtn {
+    -fx-background-color: #dad7ce;
+    -fx-background-radius: 30;
+    -fx-font-size: 20;
+}
+
+.exitBtn:hover {
+    -fx-background-color: #d40b0b;
+    -fx-text-fill: white;
+    -fx-font-size: 20;
+}
+
+
+/*
+#dad7ce
+*/
+
+.animatedTextfield {
+    -fx-background-radius: 30;
+    -fx-font-family: "Apple Chancery";
+    -fx-font-size: 16;
+}
+
+.animatedlabel {
+    -fx-background-color: #dad7ce;
+    -fx-padding: 10;
+}
+
+.scrollpanel {
+    -fx-background-color: transparent;
+}
+
+.scrollpanel .viewport {
+    -fx-background-color: transparent;
+}
+
+.textOnBlack {
+    -fx-text-fill: white;
+    -fx-font-size: 25;
+}
+
+
+/*Icons*/
+
+
+/*Dark mode*/
+
+.settingsBtnBox {
+    -fx-padding: 6;
+    -fx-background-color: #323234;
+    -fx-background-radius: 40;
+    -fx-border-color: black;
+    -fx-border-radius: 30px;
+}
+
+.settingsBtnBox:hover {
+    -fx-background-color: #888f9c;
+}
+
+
+/*ligth mode*/
+
+.settingsLightBtnBox {
+    -fx-padding: 6;
+    -fx-background-color: #dad7ce;
+    -fx-background-radius: 40;
+}
+
+.settingsLightBtnBox:hover {
+    -fx-background-color: #95c11f;
+}
+
+
+/*log*/
+
+.log {
+    -fx-font-size: 17;
+}
+
+.normalFont {
+    -fx-background-color: Black;
+    -fx-font-family: "System";
+}
+
+
+/*Volum Silder*/
+
+.volumSliderArea:hover .SliderBox {
+    -fx-opacity: 1;
+}
+
+.SliderBox {
+    -fx-background-radius: 30;
+}

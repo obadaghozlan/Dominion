@@ -1,0 +1,5 @@
+.root {
+    -fx-background-image: url("/src/main/resources/backgrounds/got-doors-background.jpg");
+    -fx-background-size: cover;
+    -fx-font-family: "Apple Chancery";
+}
